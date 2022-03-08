@@ -1,0 +1,12 @@
+/*
+   avem cate 4 led uri pentru fiecare semnalizare cu catod comun terminat cu rezistenta
+   s-a pus rezistenta de pull down pe fiecare pin de semnal
+   pin 2 este semnal pentru partea stanga de semnalizare
+   pin 8 este semnal pentru frana
+   pin 13 este semnal pentru partea dreapta de semnalizare
+   pin 2, 8 si 13 sunt pini de INTRARE
+   pinii 3,4,5,6 controleaza led-urile de pe partea dreapta
+   pinul 7 controleaza frana
+   pinii 9,10,11,12 controleaza led-urile de pe partea stanga
+   alimentarea se face la 5V si GND comun
+*/
